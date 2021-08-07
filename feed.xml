@@ -1,10 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://music.ybenel.cf/feed.xml" rel="self" type="application/atom+xml" /><link href="https://music.ybenel.cf/" rel="alternate" type="text/html" /><updated>2021-04-15T12:45:04+00:00</updated><id>https://music.ybenel.cf/feed.xml</id><title type="html">Ybenel</title><subtitle>My Super Music Tracks.</subtitle><author><name>ybenel</name></author><entry><title type="html">Instant Crush</title><link href="https://music.ybenel.cf/2021/04/15/Instant-Crush.html" rel="alternate" type="text/html" title="Instant Crush" /><published>2021-04-15T00:00:00+00:00</published><updated>2021-04-15T00:00:00+00:00</updated><id>https://music.ybenel.cf/2021/04/15/Instant-Crush</id><content type="html" xml:base="https://music.ybenel.cf/2021/04/15/Instant-Crush.html">&lt;!---
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://music.ybenel.cf/feed.xml" rel="self" type="application/atom+xml" /><link href="https://music.ybenel.cf/" rel="alternate" type="text/html" /><updated>2021-08-07T15:33:25+01:00</updated><id>https://music.ybenel.cf/feed.xml</id><title type="html">Ybenel</title><subtitle>My Super Music Tracks.</subtitle><author><name>ybenel</name></author><entry><title type="html">Genesis</title><link href="https://music.ybenel.cf/2021/08/07/Genesis.html" rel="alternate" type="text/html" title="Genesis" /><published>2021-08-07T00:00:00+01:00</published><updated>2021-08-07T00:00:00+01:00</updated><id>https://music.ybenel.cf/2021/08/07/Genesis</id><content type="html" xml:base="https://music.ybenel.cf/2021/08/07/Genesis.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
 &lt;!-- ybenel --&gt;
 &lt;!-- &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/InstantCrush.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/InstantCrush.jpg&quot;,&quot;title&quot;:&quot;Instant Crush&quot;,&quot;subtitle&quot;:&quot;The Instant Crush Of My Hearth&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2021/04/15/Instant-Crush.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/Genesis.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/Genesis.jpg&quot;,&quot;title&quot;:&quot;Genesis&quot;,&quot;subtitle&quot;:&quot;The Hot Girl I Want&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2021/08/07/Genesis.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Genesis Track 02 Album Visions (Grimes)&lt;/li&gt;
+  &lt;li&gt;A song that makes you feel you are far away.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Grimes</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/Genesis.jpg" /><media:content medium="image" url="https://music.ybenel.cf/Genesis.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Oblivion</title><link href="https://music.ybenel.cf/2021/08/07/Oblivion.html" rel="alternate" type="text/html" title="The Oblivion" /><published>2021-08-07T00:00:00+01:00</published><updated>2021-08-07T00:00:00+01:00</updated><id>https://music.ybenel.cf/2021/08/07/Oblivion</id><content type="html" xml:base="https://music.ybenel.cf/2021/08/07/Oblivion.html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- ybenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/Oblivion.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/Oblivion.png&quot;,&quot;title&quot;:&quot;The Oblivion&quot;,&quot;subtitle&quot;:&quot;The reason i&apos;m in oblivion&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2021/08/07/Oblivion.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Oblivion Track 03 Album Visions (Grimes)&lt;/li&gt;
+  &lt;li&gt;A song for empowering myself physically amongst a masculine power, and the hate of feeling powerless, making light of masculine physical power.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Grimes</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/Oblivion.png" /><media:content medium="image" url="https://music.ybenel.cf/Oblivion.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Forver Oblivion</title><link href="https://music.ybenel.cf/2021/08/07/OblivionForver.html" rel="alternate" type="text/html" title="The Forver Oblivion" /><published>2021-08-07T00:00:00+01:00</published><updated>2021-08-07T00:00:00+01:00</updated><id>https://music.ybenel.cf/2021/08/07/OblivionForver</id><content type="html" xml:base="https://music.ybenel.cf/2021/08/07/OblivionForver.html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- ybenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/OblivionForever.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/OblivionForever.jpg&quot;,&quot;title&quot;:&quot;The Forver Oblivion&quot;,&quot;subtitle&quot;:&quot;Where&apos;s My Love ?&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2021/08/07/OblivionForver.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Oblivion Forever Awesome Remix (Magdalena Bay)&lt;/li&gt;
+  &lt;li&gt;A song that feels like walking with ur love in a dark night.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Grimes, Magdalena Bay</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/OblivionForever.jpg" /><media:content medium="image" url="https://music.ybenel.cf/OblivionForever.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Instant Crush</title><link href="https://music.ybenel.cf/2021/04/15/Instant-Crush.html" rel="alternate" type="text/html" title="Instant Crush" /><published>2021-04-15T00:00:00+00:00</published><updated>2021-04-15T00:00:00+00:00</updated><id>https://music.ybenel.cf/2021/04/15/Instant-Crush</id><content type="html" xml:base="https://music.ybenel.cf/2021/04/15/Instant-Crush.html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- ybenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/InstantCrush.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/InstantCrush.jpg&quot;,&quot;title&quot;:&quot;Instant Crush&quot;,&quot;subtitle&quot;:&quot;The Instant Crush Of My Heart&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2021/04/15/Instant-Crush.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
         src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -126,56 +183,4 @@ It is only necessary for hosting remotely.
 &lt;ul&gt;
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;Chaos Chaos ! Took Us To Make Either Worse Or Great Choices!&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/Response.jpg" /><media:content medium="image" url="https://music.ybenel.cf/Response.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Response</title><link href="https://music.ybenel.cf/2019/12/30/Response.html" rel="alternate" type="text/html" title="Response" /><published>2019-12-30T00:00:00+01:00</published><updated>2019-12-30T00:00:00+01:00</updated><id>https://music.ybenel.cf/2019/12/30/Response</id><content type="html" xml:base="https://music.ybenel.cf/2019/12/30/Response.html">&lt;!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
---&gt;
-&lt;!-- ybenel --&gt;
-&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/Response.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/A_Little_Further.jpg&quot;,&quot;title&quot;:&quot;Response&quot;,&quot;subtitle&quot;:&quot;The Last Response&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2019/12/30/Response.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
-&lt;/script&gt;
-
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
-&lt;/script&gt;
-
-&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
-  &lt;li&gt;My Last Response&lt;/li&gt;
-  &lt;li&gt;This Track Was Inspired From Extrawelt - 8000 (2006)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/A_Little_Further.jpg" /><media:content medium="image" url="https://music.ybenel.cf/A_Little_Further.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AyamZaman</title><link href="https://music.ybenel.cf/2019/12/05/AyamZaman.html" rel="alternate" type="text/html" title="AyamZaman" /><published>2019-12-05T00:00:00+01:00</published><updated>2019-12-05T00:00:00+01:00</updated><id>https://music.ybenel.cf/2019/12/05/AyamZaman</id><content type="html" xml:base="https://music.ybenel.cf/2019/12/05/AyamZaman.html">&lt;!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
---&gt;
-&lt;!-- ybenel --&gt;
-&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/AyamZaman.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/AyamZaman.jpg&quot;,&quot;title&quot;:&quot;AyamZaman&quot;,&quot;subtitle&quot;:&quot;AyamZaman Beat Album Wa9tZman&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2019/12/05/AyamZaman.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
-&lt;/script&gt;
-
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
-&lt;/script&gt;
-
-&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
-  &lt;li&gt;Album Wa9tZman (Discontinued)3&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/AyamZaman.jpg" /><media:content medium="image" url="https://music.ybenel.cf/AyamZaman.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">3310</title><link href="https://music.ybenel.cf/2019/10/25/3310.html" rel="alternate" type="text/html" title="3310" /><published>2019-10-25T00:00:00+01:00</published><updated>2019-10-25T00:00:00+01:00</updated><id>https://music.ybenel.cf/2019/10/25/3310</id><content type="html" xml:base="https://music.ybenel.cf/2019/10/25/3310.html">&lt;!---
-The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
-It is only necessary for hosting remotely.
---&gt;
-&lt;!-- ybenel --&gt;
-&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/3310.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/3310.jpg&quot;,&quot;title&quot;:&quot;3310&quot;,&quot;subtitle&quot;:&quot;3310 Instru By Ybenel&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2019/10/25/3310.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
-&lt;/script&gt;
-
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
-&lt;/script&gt;
-
-&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
-  &lt;li&gt;3310 Instrumental Inspired From 3310 By (Madd)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/3310.jpg" /><media:content medium="image" url="https://music.ybenel.cf/3310.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/Response.jpg" /><media:content medium="image" url="https://music.ybenel.cf/Response.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

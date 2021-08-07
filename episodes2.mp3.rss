@@ -1,0 +1,203 @@
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:bitlove="http://bitlove.org"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:psc="http://podlove.org/simple-chapters"
+     version="2.0">
+
+  <channel>
+    <title>Ybenel</title>
+    <link>https://music.ybenel.cf</link>
+    <atom:link href="https://music.ybenel.cf/episodes.mp3.rss2" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://music.ybenel.cf/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://music.ybenel.cf/episodes2.mp3.rss" rel="last" type="application/rss+xml" />
+    
+    <atom:link href="https://music.ybenel.cf/episodes.mp3.rss" rel="prev" type="application/rss+xml" />
+
+    <atom:link rel="alternate" href="https://music.ybenel.cf/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://music.ybenel.cf/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+    <description>My Super Music Tracks.
+</description>
+    <lastBuildDate>Sat, 07 Aug 2021 15:33:25 +0100</lastBuildDate>
+    <language>en</language>
+    <generator>Jekyll-Octopod 0.9.23</generator>
+
+    <itunes:summary>My Super Music Tracks.
+</itunes:summary>
+    <itunes:author>ybenel</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://music.ybenel.cf/img/logo-itunes.jpg" />
+    <itunes:owner>
+      <itunes:name>ybenel</itunes:name>
+      <itunes:email>ybenel@molero.xyz</itunes:email>
+    </itunes:owner>
+    <managingEditor>ybenel@molero.xyz (ybenel)</managingEditor>
+    <copyright>CC BY 4.0</copyright>
+    <itunes:subtitle>Music Is What Made Me Who I Am Now :D</itunes:subtitle>
+    <itunes:keywords>electronic, techno, dance, club, music, magic</itunes:keywords>
+    <image>
+      <title>Ybenel</title>
+      <url>https://music.ybenel.cf/img/logo-itunes.jpg</url>
+      <link>https://music.ybenel.cf</link>
+    </image>
+    
+    <itunes:category text="Technology" />
+    <item>
+            <title>Response - The Last Response</title>
+            <link>https://music.ybenel.cf/2019/12/30/Response.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.ybenel.cf/players/Response"/>
+            <comments>https://music.ybenel.cf/2019/12/30/Response.html#disqus_thread</comments>
+            <pubDate>Mon, 30 Dec 2019 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.ybenel.cf/2019/12/30/Response.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- ybenel -->
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>My Last Response</li>
+  <li>This Track Was Inspired From Extrawelt - 8000 (2006)</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- ybenel -->
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>My Last Response</li>
+  <li>This Track Was Inspired From Extrawelt - 8000 (2006)</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.ybenel.cf/episodes/Response.mp3" 
+                         length="6094959" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>The Last Response</itunes:subtitle>
+            <itunes:summary>This Track Was Inspired From Extrawelt - 8000 (2006)</itunes:summary>
+            <itunes:author>Ybenel</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:02:32</itunes:duration>
+            <itunes:image href="https://music.ybenel.cf/img/A_Little_Further.jpg" />
+              <image>
+                <title></title>
+                <url>https://music.ybenel.cf/img/A_Little_Further.jpg</url>
+                <link>https://music.ybenel.cf</link>
+              </image></item><item>
+            <title>AyamZaman - AyamZaman Beat Album Wa9tZman</title>
+            <link>https://music.ybenel.cf/2019/12/05/AyamZaman.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.ybenel.cf/players/AyamZaman"/>
+            <comments>https://music.ybenel.cf/2019/12/05/AyamZaman.html#disqus_thread</comments>
+            <pubDate>Thu, 05 Dec 2019 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.ybenel.cf/2019/12/05/AyamZaman.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- ybenel -->
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Album Wa9tZman (Discontinued)3</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- ybenel -->
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Album Wa9tZman (Discontinued)3</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.ybenel.cf/episodes/AyamZaman.mp3" 
+                         length="9253924" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>AyamZaman Beat Album Wa9tZman</itunes:subtitle>
+            <itunes:summary>Let's Go Back To The Past When Fun Was All Started :D</itunes:summary>
+            <itunes:author>Ybenel</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:48</itunes:duration>
+            <itunes:image href="https://music.ybenel.cf/img/AyamZaman.jpg" />
+              <image>
+                <title></title>
+                <url>https://music.ybenel.cf/img/AyamZaman.jpg</url>
+                <link>https://music.ybenel.cf</link>
+              </image></item><item>
+            <title>3310 - 3310 Instru By Ybenel</title>
+            <link>https://music.ybenel.cf/2019/10/25/3310.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.ybenel.cf/players/3310"/>
+            <comments>https://music.ybenel.cf/2019/10/25/3310.html#disqus_thread</comments>
+            <pubDate>Fri, 25 Oct 2019 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://music.ybenel.cf/2019/10/25/3310.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- ybenel -->
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>3310 Instrumental Inspired From 3310 By (Madd)</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- ybenel -->
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>3310 Instrumental Inspired From 3310 By (Madd)</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.ybenel.cf/episodes/3310.mp3" 
+                         length="9617756" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>3310 Instru By Ybenel</itunes:subtitle>
+            <itunes:summary>Inspired From 3310 By Madd</itunes:summary>
+            <itunes:author>Ybenel</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:59</itunes:duration>
+            <itunes:image href="https://music.ybenel.cf/img/3310.jpg" />
+              <image>
+                <title></title>
+                <url>https://music.ybenel.cf/img/3310.jpg</url>
+                <link>https://music.ybenel.cf</link>
+              </image></item></channel>
+</rss>

@@ -12,15 +12,15 @@
     <link>https://music.ybenel.cf</link>
     <atom:link href="https://music.ybenel.cf/episodes.ogg.rss" rel="self" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <atom:link href="https://music.ybenel.cf/episodes.ogg.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://music.ybenel.cf/episodes.ogg.rss" rel="last" type="application/rss+xml" />
-    
+    <atom:link href="https://music.ybenel.cf/episodes2.ogg.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="https://music.ybenel.cf/episodes2.ogg.rss" rel="next" type="application/rss+xml" />
     
 
-    <atom:link rel="alternate" href="https://music.ybenel.cf/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-<atom:link rel="alternate" href="https://music.ybenel.cf/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+    <atom:link rel="alternate" href="https://music.ybenel.cf/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://music.ybenel.cf/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <description>My Super Music Tracks.
 </description>
-    <lastBuildDate>Thu, 15 Apr 2021 12:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Aug 2021 15:33:25 +0100</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
